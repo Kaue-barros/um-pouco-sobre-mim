@@ -1,0 +1,214 @@
+body{
+    background-color:rgb(255 228 0);
+    
+}
+.tt{
+    text-align: center;
+}
+.eu{
+    text-decoration-color: black;
+    background-color: rgb(165, 165, 165);
+    width: 120px;
+    height: 65px;
+    border-color: black;
+    border-style: solid;
+
+    
+}
+
+.text{
+    text-align: center;
+    background-color: #ff4b4b;
+    margin: 100px auto;
+    height: 1650px;
+    width: 900px;
+    border-color: rgb(27, 27, 27);
+    border-style: solid ;
+    
+}
+.ft1{
+    max-width: 300px;
+    max-height: 400px;
+    width: 100px;
+    height: 200px;
+    margin: 2rem;
+}
+.ft1:hover{
+transform:scale(1.75,1.75);
+}
+.ft2{
+    
+    max-width: 300px;
+    max-height: 400px;
+    width: 100px;
+    height: auto;
+    margin: 2rem;
+}
+.ft2:hover{
+    transform:scale(2.00,2.00);
+}
+.ft3{
+    max-width: 300px;
+    max-height: 400px;
+    width: 100px;
+    height: auto;
+    margin: 2rem;
+}
+.ft3:hover{
+    transform:scale(2.00,2.00);
+}
+.ft4{
+    max-width: 300px;
+    max-height: 400px;
+    width: 100px;
+    height: auto;
+    margin: 2rem;
+}
+.ft4:hover{
+    transform:scale(2.00,2.00);
+}
+.ft5{
+    max-width: 300px;
+    max-height: 400px;
+    width: 100px;
+    height: auto;
+}
+.ft5:hover{
+    transform:scale(2.00,2.00);
+}
+.ft6{
+    max-width: 300px;
+    max-height: 400px;
+    width: 100px;
+    height: auto;
+    margin: 2rem;
+}
+.ft6:hover{
+    transform:scale(2.00,2.00);
+}
+.ft7{
+    max-width: 300px;
+    max-height: 400px;
+    width: 100px;
+    height: auto;
+}
+.ft7:hover{
+    transform:scale(2.00,2.00);
+}
+.ft8{
+    max-width: 300px;
+    max-height: 400px;
+    width: 100px;
+    height: auto;
+}
+.ft8:hover{
+    transform:scale(2.00,2.00);
+}
+
+.ft9{
+    max-width: 300px;
+    max-height: 400px;
+    width: 100px;
+    height: auto;
+    margin: 2rem;
+}
+.ft9:hover{
+    transform:scale(2.00,2.00);
+}
+
+.ft10{
+    max-width: 300px;
+    max-height: 400px;
+    width: 100px;
+    height: auto;
+    margin: 2rem;
+}
+.ft10:hover{
+    transform:scale(2.00,2.00);
+}
+.ft11{
+    max-width: 300px;
+    max-height: 400px;
+    width: 100px;
+    height: auto;
+    margin: 2rem;
+}
+.ft11:hover{
+    transform:scale(2.00,2.00);
+}
+.ft12{
+    max-width: 300px;
+    max-height: 400px;
+    width: 100px;
+    height: auto;
+    margin: 2rem;
+}
+.ft12:hover{
+    transform:scale(2.00,2.00);
+}
+.ft13{
+    max-width: 300px;
+    max-height: 400px;
+    width: 100px;
+    height: auto;
+}
+.ft13:hover{
+    transform:scale(2.00,2.00);
+}
+.ft14{
+    max-width: 300px;
+    max-height: 400px;
+    width: 100px;
+    height: auto;
+    margin: 2rem;
+}
+.ft14:hover{
+    transform:scale(2.25,2.25);
+}
+.ft15{
+    max-width: 300px;
+    max-height: 400px;
+    width: 100px;
+    height: auto;
+    margin: 2rem;
+}
+.ft15:hover{
+    transform:scale(2.25 , 2.25);
+}
+.vd1{
+    max-width: 300px;
+    max-height: 400px;
+    width: 100px;
+    height: auto;
+    margin: 2rem;
+}
+.hj1{
+    max-width: 300px;
+    max-height: 400px;
+    width: 100px;
+    height: auto;
+    margin: 2rem;
+}
+.hj1:hover{
+    transform: scale(2.00);
+}
+.hj2{
+    max-width: 300px;
+    max-height: 400px;
+    width: 100px;
+    height: auto;
+    margin: 2rem;
+}
+.hj2:hover{
+    transform: scale(2.00);
+}
+.hj3{
+    max-width: 300px;
+    max-height: 400px;
+    width: 100px;
+    height: auto;
+    margin: 2rem;
+}
+.hj3:hover{
+    transform: scale(2.00);
+}
